@@ -89,6 +89,22 @@ This helps in understanding stock movement patterns and forecasting short-term t
 - ARIMA is suitable for short-term forecasting but less effective for sudden market changes.
 
 ---
+##  Graphs & Results
+
+### 1. Closing Price Trend
+![Closing Price Trend](00.png)
+
+### 2. ACF Plot
+![ACF Plot](01.png)
+
+### 3. PACF Plot
+![PACF Plot](02.png)
+
+### 4. Actual vs Predicted Prices
+![Prediction](03.png)
+
+### 5. 30-Day Forecast
+![Forecast](04.png)
 
 ## (6) How to Run  
 
