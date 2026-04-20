@@ -119,3 +119,9 @@ In this project, the ASTRAL stock price data was analyzed using time series fore
 The model was able to capture the general trend of the stock prices and provided a 30-day forecast based on historical patterns. However, due to market volatility and external economic factors, some fluctuations and deviations are expected in real-world scenarios.
 
 Overall, the ARIMA model proved to be effective for short-term stock forecasting, but it is more suitable for stable trend prediction rather than highly volatile market conditions. Further improvements can be achieved by using advanced models like SARIMA or LSTM.
+
+
+## ⚖️ AI Ethics & Responsible Usage Declaration
+
+AI Ethics & Responsible Usage Declaration is included in the repository file:  
+[View Document](AI_Ethics_Declaration_Page.docx)
